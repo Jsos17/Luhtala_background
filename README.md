@@ -1,34 +1,3 @@
-# Education
-
-- Master's Student (Applied Mathematics), University of Helsinki (2020-present)
-
-  - Specialization: Insurance and Financial Mathematics
-
-- Bachelor of Science (Computer Science), University of Helsinki (2017-2020)
-
-- Economics studies, Helsinki School of Economics (now part of Aalto University) (Autumn 2009)
-
-- Mathematics and statistics studies, University of Helsinki (2007-2009)
-
-- Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)
-
-# Master's Thesis (in Financial Mathematics)
-
-- [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
-
-- [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862) at HELDA - Digital Repository of the University of Helsinki
-
-# University Programming Projects from 2018 to 2021
-
-- [Classical Ciphers (Summer 2018, Java)](https://github.com/Jsos17/Classic-crypto)
-- [Visualising 120 Years of Olympic History (Spring 2021, R)](https://github.com/Jsos17/Olympics_Evolution)
-- [A Machine Learning Term Project (Spring 2021, R)](https://github.com/Jsos17/Machine_Learning_Term_Project)
-- [Some Monte Carlo Experiments (Autumn 2019, Python and Jupyter Notebook)](https://github.com/Jsos17/Monte_Carlo)
-- [A Vector Autoregressive Model (Spring 2020, R)](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
-- [A Calculator Application (Spring 2018, Java)](https://github.com/Jsos17/CalculatorApp)
-- [Bet1X2 Database Application (Summer 2018, Python)](https://github.com/Jsos17/Bet1X2)
-- [Todo Application (Summer 2018, Python)](https://github.com/Jsos17/Python_Todo_App)
-
 # Family Name (Luhtala)
 
 As of September 2022, I have officially adopted the surname *Luhtala* belonging to my maternal grandfather *Aleksanteri Luhtala*. My birth surname is *Silvennoinen* (I was born *Juuso Silvennoinen*). I have changed my name to *Juuso Luhtala* because I feel a strong connection to my maternal grandfather. Finnish law allows one to take a surname that has been used in one's family within the last five generations. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr Luhtala* and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
