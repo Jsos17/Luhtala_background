@@ -78,6 +78,9 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - Tietäjä is similar to a Finno-Ugric Shaman yet it is a distinct social role from a different time period.
 - [Tietäjä, Encyclopedia Britannica](https://www.britannica.com/topic/tietaja)
 - [Tietäjä ("knower"), Wikipedia](https://en.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
+> The shaman is not merely a sick man, or a madman; he is a sick man who has healed himself. [-Terence McKenna](https://www.goodreads.com/quotes/441491-the-shaman-is-not-merely-a-sick-man-or-a)
+
+> The psychotic drowns in the same waters in which the mystic swims with delight. [-Joseph Campbell](https://www.goodreads.com/quotes/431077-the-psychotic-drowns-in-the-same-waters-in-which-the)
 
 ## Laukkuryssä (East-Karelian Travelling Salesman) 
 
