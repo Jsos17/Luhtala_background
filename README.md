@@ -58,52 +58,29 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 - [Suomen karjalankieliset, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Suomen_karjalankieliset)
-- [Laukkuryssä (Itäkarjalainen laukkukauppias), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laukkuryss%C3%A4)
-- [Laukkuryssä (East-Karelian travelling salesman), Wikipedia](https://en.wikipedia.org/wiki/Laukkuryss%C3%A4)
 
-### Many Karelias, Finnish Karelia and Old Finland
-
-####  East Karelia, Aunus Karelia, Viena Karelia, West Karelia, Finnish Karelia, Ladoga Karelia, Border Karelia, Karelian Isthmus, South Karelia, North Karelia, Swedish Karelia, Russian Karelia, Tver Karelia
-
-- [Map of Many Karelias, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b4/Many_Karelias.png)
-- [Map of Many Karelias (in Finnish), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/12/Karjalan_alueet.png)
-- [Karelia, Wikipedia](https://en.wikipedia.org/wiki/Karelia)
-
-#### Finnish Karelia (Historical Province of Finland)
-
-- [Finnish Karelia (historical province of Finland), Wikipedia](https://en.wikipedia.org/wiki/Karelia_(historical_province_of_Finland))
-- [Finnish Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians_(Finns))
-- [Coat of Arms of the Province of Karelia, Wikipedia](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Province_of_Karelia)
-- [Ceded Karelian Regions of Finland after the Winter War (and Continuation War), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/59/Luovutetun_Karjalan_kunnat_1940.svg)
-
-#### Old Finland
-
-- [Old Finland (Vanha Suomi), Wikipedia](https://en.wikipedia.org/wiki/Old_Finland)
-
-#### South Karelia
-
-- [Imatra, Wikipedia](https://en.wikipedia.org/wiki/Imatra) (my place of birth)
-- [Jääski, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/J%C3%A4%C3%A4ski) (my maternal grandmother's childhood home municipality)
-- [Jääski (Lesogorsky), Wikipedia](https://en.wikipedia.org/wiki/Lesogorsky)
-
-#### Border Karelia, Ladoga Karelia and East Karelia
+### Border Karelia
 
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
-- [Lake Ladoga, Wikipedia](https://en.wikipedia.org/wiki/Lake_Ladoga)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
 - [Salmi, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Salmi_(kunta)) (my maternal grandfather's place of birth)
-- [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
-- [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
-- [East Karelia, Wikipedia](https://en.wikipedia.org/wiki/East_Karelia)
 
-### The Flag of East Karelia
+### East Karelia
 
 - [The Flag of East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
 - [Ethnic Nordic Cross Flags, Wikipedia](https://en.wikipedia.org/wiki/Nordic_cross_flag#Ethnic_flags)
 - [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
+- [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
+- [East Karelia, Wikipedia](https://en.wikipedia.org/wiki/East_Karelia)
 
-# Tietäjälaitos
+## Tietäjä
 
-- [Tietäjä, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
+- Tietäjä is similar to a Finno-Ugric Shaman yet it is a distinct social role from a different time period.
 - [Tietäjä, Encyclopedia Britannica](https://www.britannica.com/topic/tietaja)
 - [Tietäjä ("knower"), Wikipedia](https://en.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
+
+## Laukkuryssä (East-Karelian Travelling Salesman) 
+
+- Laukkuryssä means literally (and derogatively) bag Russian although bag Russians were ethnically East Karelians and not ethnic Russians.
+- [Laukkuryssä, Wikipedia](https://en.wikipedia.org/wiki/Laukkuryss%C3%A4)
+- [Laukkuryssä (Itäkarjalainen laukkukauppias), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laukkuryss%C3%A4)
