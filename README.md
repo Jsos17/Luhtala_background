@@ -82,11 +82,9 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 
 #### South Karelia
 
-- [Lappeenranta, Wikipedia](https://en.wikipedia.org/wiki/Lappeenranta)
 - [Imatra, Wikipedia](https://en.wikipedia.org/wiki/Imatra) (my place of birth)
 - [Jääski, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/J%C3%A4%C3%A4ski) (my maternal grandmother's childhood home municipality)
 - [Jääski (Lesogorsky), Wikipedia](https://en.wikipedia.org/wiki/Lesogorsky)
-- [Vuoksi (river), Wikipedia](https://en.wikipedia.org/wiki/Vuoksi)
 
 #### Border Karelia, Ladoga Karelia and East Karelia
 
