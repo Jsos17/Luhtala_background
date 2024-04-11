@@ -70,19 +70,9 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [The Flag of East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
 - [Ethnic Nordic Cross Flags, Wikipedia](https://en.wikipedia.org/wiki/Nordic_cross_flag#Ethnic_flags)
 - [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
-- [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
 - [East Karelia, Wikipedia](https://en.wikipedia.org/wiki/East_Karelia)
 
-## Tietäjä
-
-- Tietäjä is similar to a Finno-Ugric Shaman yet it is a distinct social role from a different time period.
-- [Tietäjä, Encyclopedia Britannica](https://www.britannica.com/topic/tietaja)
-- [Tietäjä ("knower"), Wikipedia](https://en.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
-> The shaman is not merely a sick man, or a madman; he is a sick man who has healed himself. [-Terence McKenna](https://www.goodreads.com/quotes/441491-the-shaman-is-not-merely-a-sick-man-or-a)
-
-> The psychotic drowns in the same waters in which the mystic swims with delight. [-Joseph Campbell](https://www.goodreads.com/quotes/431077-the-psychotic-drowns-in-the-same-waters-in-which-the)
-
-## Laukkuryssä (East-Karelian Travelling Salesman) 
+## Laukkuryssä (East Karelian Travelling Salesman) 
 
 - Laukkuryssä means literally (and derogatively) bag Russian although bag Russians were ethnically East Karelians and not ethnic Russians.
 - [Laukkuryssä, Wikipedia](https://en.wikipedia.org/wiki/Laukkuryss%C3%A4)
