@@ -74,6 +74,6 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 
 ## Laukkuryssä (East Karelian Travelling Salesman) 
 
-- Laukkuryssä means literally (and derogatively) bag Russian although bag Russians were ethnically East Karelians and not ethnic Russians.
+- In Finland in the 1800s and early 1900s, East Karelian travelling salesmen were called derogatively as *laukkuryssä*. The word *laukkuryssä* means literally bag Russian although bag Russians were ethnically East Karelians and not ethnic Russians.
 - [Laukkuryssä, Wikipedia](https://en.wikipedia.org/wiki/Laukkuryss%C3%A4)
 - [Laukkuryssä (Itäkarjalainen laukkukauppias), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laukkuryss%C3%A4)
